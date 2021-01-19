@@ -4,30 +4,40 @@
   box-sizing: border-box;
 }
 
-.contents1 {
-  height: 200px;
-  background-image: url(img/box1.jpg);
+.img {
+  height: 300px;
   background-size: cover;
   background-position: center;
+}
+
+.contents1 {
+  background-image: url(img/box1.jpg);
 }
 
 .contents2 {
-  height: 200px;
   background-image: url(img/box2.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .contents3 {
-  height: 200px;
   background-image: url(img/box3.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .contents4 {
-  height: 200px;
   background-image: url(img/box4.jpg);
-  background-size: cover;
-  background-position: center;
+}
+
+.contents5 {
+  background-image: url(img/box5.jpg);
+}
+
+.contents6 {
+  background-image: url(img/box6.jpg);
+}
+
+.contents7 {
+  background-image: url(img/box7.jpg);
+}
+
+.contents8 {
+  background-image: url(img/box8.jpg);
 }
